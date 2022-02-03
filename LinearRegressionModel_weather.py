@@ -267,7 +267,7 @@ print("Mean Absolute Error is :" , mape)
 """We have achieved regressor score  around 98% for both train and test 
    data """
 """From MAE we can say that our predicted values are
-   less than or greater than 0.82 units
+   less than or greater than 0.82 units"""
 
 
 # In[ ]:
