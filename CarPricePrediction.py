@@ -416,6 +416,6 @@ print("Mean Absolute Percentage Error is :" , round(mape*100,2),"%")
 # In[ ]:
 
 
-"""We Have achived reg score is 95 % for training and
+"""We Have achived reg score 95 % for training and
    86% for testing"""
 
