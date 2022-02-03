@@ -402,14 +402,14 @@ display(regressor.score(x_test,y_test))
 
 from sklearn.metrics import mean_absolute_percentage_error
 mape=mean_absolute_percentage_error(y_pred,y_test)
-print("Mean Absolute Percentage Error is :" , round(mape*100,2),"%")
+print("Mean Absolute Percentage Error is :" , mape)
 
 
 # In[ ]:
 
 
 #Conclusion 
- """Our Predicted value can be 15% less than or greater
+ """Our Predicted value can be 0.15 units less than or greater
      than the actual value"""
 
 
